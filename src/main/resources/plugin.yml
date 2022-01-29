@@ -1,0 +1,6 @@
+name: moonlyte-lobby
+version: '${project.version}'
+main: moonlyte.moonlyte.MoonlyteLobby
+api-version: 1.18
+authors: [ jonasie ]
+description: Lobby plugin for moonlyte servers
